@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<Server><r:RECORD xmlns:r="urn:record"><ServerName>localhost</ServerName>
+<UserName>sa</UserName><Password>123</Password><DataBaseName>insurance</DataBaseName></r:RECORD></Server>

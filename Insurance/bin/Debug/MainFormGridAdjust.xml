@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<MainGridAdjust>
+  <COLUMN>
+    <NAME>نام</NAME>
+    <WIDTH>80</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>name</fieldName>
+    <order>4</order>
+  </COLUMN>
+  <COLUMN>
+    <NAME>نام خانوادگی</NAME>
+    <WIDTH>90</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>family</fieldName>
+    <order>5</order>
+  </COLUMN>
+  <COLUMN>
+    <NAME>شماره بیمه</NAME>
+    <WIDTH>100</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>InsuranceNumber</fieldName>
+    <order>6</order>
+  </COLUMN>
+  <COLUMN>
+    <NAME>نوع بیمه</NAME>
+    <WIDTH>80</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>caption</fieldName>
+    <order>7</order>
+  </COLUMN>
+  <COLUMN>
+    <NAME>تاریخ اتمام</NAME>
+    <WIDTH>70</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>SHAMSIDATE</fieldName>
+    <order>8</order>
+  </COLUMN>
+  <COLUMN>
+    <NAME>شماره تلفن</NAME>
+    <WIDTH>120</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>PhoneNumber</fieldName>
+    <order>9</order>
+  </COLUMN>
+  <COLUMN>
+    <NAME>شرح</NAME>
+    <WIDTH>200</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>description</fieldName>
+    <order>10</order>
+  </COLUMN>
+  <COLUMN>
+    <NAME>آدرس</NAME>
+    <WIDTH>200</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>address</fieldName>
+    <order>11</order>
+  </COLUMN>
+  <COLUMN>
+    <NAME>تاریخ شروع</NAME>
+    <WIDTH>100</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>begindate_shamsi</fieldName>
+    <order>12</order>
+  </COLUMN>
+  <COLUMN>
+    <NAME>ردیف</NAME>
+    <WIDTH>40</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>radif</fieldName>
+    <order>1</order>
+  </COLUMN>
+  <COLUMN>
+    <NAME>انجام شده</NAME>
+    <WIDTH>60</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>haveDid</fieldName>
+    <order>3</order>
+  </COLUMN>
+  <COLUMN>
+    <NAME>ارسال پیام</NAME>
+    <WIDTH>60</WIDTH>
+    <VISIBLE>True</VISIBLE>
+    <fieldName>SmsSend</fieldName>
+    <order>2</order>
+  </COLUMN>
+</MainGridAdjust>

@@ -1,0 +1,7 @@
+F:\reza\tamdid\Insurance\RMX_TOOLS\bin\Debug\RMX_TOOLS.dll
+F:\reza\tamdid\Insurance\RMX_TOOLS\bin\Debug\RMX_TOOLS.pdb
+F:\reza\tamdid\Insurance\RMX_TOOLS\obj\Debug\ResolveAssemblyReference.cache
+F:\reza\tamdid\Insurance\RMX_TOOLS\obj\Debug\RMX_TOOLS.date.DatePicker.resources
+F:\reza\tamdid\Insurance\RMX_TOOLS\obj\Debug\RMX_TOOLS.csproj.GenerateResource.Cache
+F:\reza\tamdid\Insurance\RMX_TOOLS\obj\Debug\RMX_TOOLS.dll
+F:\reza\tamdid\Insurance\RMX_TOOLS\obj\Debug\RMX_TOOLS.pdb

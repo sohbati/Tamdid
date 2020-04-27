@@ -1,0 +1,11 @@
+F:\reza\tamdid\Insurance\Insurance_BLL\bin\Debug\Insurance_BLL.dll
+F:\reza\tamdid\Insurance\Insurance_BLL\bin\Debug\Insurance_BLL.pdb
+F:\reza\tamdid\Insurance\Insurance_BLL\bin\Debug\Insurance_Common.dll
+F:\reza\tamdid\Insurance\Insurance_BLL\bin\Debug\Insurance_dll.dll
+F:\reza\tamdid\Insurance\Insurance_BLL\bin\Debug\RMX_TOOLS.dll
+F:\reza\tamdid\Insurance\Insurance_BLL\bin\Debug\Insurance_Common.pdb
+F:\reza\tamdid\Insurance\Insurance_BLL\bin\Debug\Insurance_dll.pdb
+F:\reza\tamdid\Insurance\Insurance_BLL\bin\Debug\RMX_TOOLS.pdb
+F:\reza\tamdid\Insurance\Insurance_BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\reza\tamdid\Insurance\Insurance_BLL\obj\Debug\Insurance_BLL.dll
+F:\reza\tamdid\Insurance\Insurance_BLL\obj\Debug\Insurance_BLL.pdb

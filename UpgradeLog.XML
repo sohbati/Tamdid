@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Insurance">
+</Property><Property Name="Solution File" Value="G:\SourceSafeProjects\Insurance\Insurance.sln">
+</Property><Property Name="User Options File" Value="G:\SourceSafeProjects\Insurance\Insurance.suo">
+</Property><Property Name="Date" Value="2009/12/28">
+</Property><Property Name="Time" Value="20:42 ب.ظ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Insurance.sln" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Insurance.suo" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance.suo">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\Insurance.csproj" Description="Project file successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\Insurance.csproj">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceInfoForm.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceInfoForm.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceInfoForm.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceInfoForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\FormsAdjusting.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\FormsAdjusting.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\FormsAdjusting.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\FormsAdjusting.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\insuranceDataSet.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\insuranceDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\insuranceDataSet1.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\insuranceDataSet1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceInfoSearchForm.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceInfoSearchForm.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceInfoSearchForm.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceInfoSearchForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceInfoSearchForm2.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceInfoSearchForm2.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceInfoSearchForm2.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceInfoSearchForm2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceTypeForm.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceTypeForm.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceTypeForm.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceTypeForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceTypePermisionsFrm.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceTypePermisionsFrm.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceTypePermisionsFrm.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceTypePermisionsFrm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\LoginForm.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\LoginForm.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\LoginForm.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\LoginForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\MainForm.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\MainForm.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\Program.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\Program.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\RecoverDeletedFrm.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\RecoverDeletedFrm.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\RecoverDeletedFrm.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\RecoverDeletedFrm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\ReportFrm.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\ReportFrm.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\ReportFrm.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\ReportFrm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\settingForm.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\settingForm.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\settingForm.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\settingForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\UserForm.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\UserForm.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\UserForm.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\UserForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\app.config" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\app.config">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\insuranceDataSet.xsc" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\insuranceDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\insuranceDataSet.xsd" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\insuranceDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\insuranceDataSet.xss" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\insuranceDataSet.xss">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\insuranceDataSet1.xsc" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\insuranceDataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\insuranceDataSet1.xsd" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\insuranceDataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\insuranceDataSet1.xss" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\insuranceDataSet1.xss">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\Properties\Settings.settings" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\globe.ico" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\globe.ico">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceInfoForm.fa-IR.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceInfoForm.fa-IR.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceInfoForm.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceInfoForm.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\FormsAdjusting.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\FormsAdjusting.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceInfoSearchForm.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceInfoSearchForm.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceInfoSearchForm2.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceInfoSearchForm2.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceTypeForm.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceTypeForm.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\InsuranceTypePermisionsFrm.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\InsuranceTypePermisionsFrm.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\LoginForm.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\LoginForm.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\MainForm.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\Properties\licenses.licx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\Properties\licenses.licx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\Properties\Resources.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\RecoverDeletedFrm.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\RecoverDeletedFrm.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\ReportFrm.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\ReportFrm.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\settingForm.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\settingForm.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\UserForm.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance\UserForm.resx">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\Insurance.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Insurance" Source="Insurance\Insurance.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\Insurance_dll.csproj" Description="Project file successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_dll\Insurance_dll.csproj">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\BasicInfoDAL.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_dll\BasicInfoDAL.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\HaveDidLogDAL.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_dll\HaveDidLogDAL.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\InsuranceInfoDAL.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_dll\InsuranceInfoDAL.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\InsuranceTypeDAL.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_dll\InsuranceTypeDAL.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_dll\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\SqlServerSettingCheck.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_dll\SqlServerSettingCheck.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\UsersDal.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_dll\UsersDal.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\ViewHaveDidLogDAL.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_dll\ViewHaveDidLogDAL.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\ViewInsuranceInfoDAL.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_dll\ViewInsuranceInfoDAL.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\Insurance_dll.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Insurance_dll" Source="Insurance_dll\Insurance_dll.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\Insurance_BLL.csproj" Description="Project file successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\Insurance_BLL.csproj">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\BasicInfoBS.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\BasicInfoBS.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\HaveDidLogBS.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\HaveDidLogBS.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\InsuranceInfoBS.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\InsuranceInfoBS.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\InsuranceTypeBS.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\InsuranceTypeBS.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\SqlServerSettingCheckBS.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\SqlServerSettingCheckBS.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\UsersBS.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\UsersBS.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\ViewHaveDidLogBS.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\ViewHaveDidLogBS.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\ViewInsuranceInfoBS.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\ViewInsuranceInfoBS.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\ClassDiagram1.cd" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\ClassDiagram2.cd" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_BLL\ClassDiagram2.cd">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\Insurance_BLL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Insurance_BLL" Source="Insurance_BLL\Insurance_BLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\RMX_TOOLS.csproj" Description="Project file successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\RMX_TOOLS.csproj">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\Class1.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\Class1.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\common\AbstractCommonData.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\common\AbstractCommonData.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\converter\BooleanConverter.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\converter\BooleanConverter.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\DAL\AbstractDAL.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\DAL\AbstractDAL.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\data\Config.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\data\Config.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\data\grid\GridTools.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\data\grid\GridTools.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\data\IDataProvider.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\data\IDataProvider.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\data\MsAcessProvider.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\data\MsAcessProvider.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\data\SqlServerProvider.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\data\SqlServerProvider.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\date\CheckDate.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\date\CheckDate.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\converter\DateConverter.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\converter\DateConverter.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\converter\IConverter.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\converter\IConverter.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\date\DatePicker.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\date\DatePicker.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\date\DatePicker.Designer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\date\DatePicker.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\date\DateConstants.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\date\DateConstants.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\date\DateXFormer.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\date\DateXFormer.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\global\Constants.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\global\Constants.cs">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\date\DatePicker.resx" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\RMX_TOOLS\date\DatePicker.resx">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\RMX_TOOLS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RMX_TOOLS" Source="RMX_TOOLS\RMX_TOOLS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Insurance_Common" Source="Insurance_Common\Insurance_Common.csproj" Description="Project file successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_Common\Insurance_Common.csproj">
+</Event><Event ErrorLevel="0" Project="Insurance_Common" Source="Insurance_Common\BasicInfoData.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_Common\BasicInfoData.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_Common" Source="Insurance_Common\HaveDidLogData.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_Common\HaveDidLogData.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_Common" Source="Insurance_Common\InsuranceInfoData.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_Common\InsuranceInfoData.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_Common" Source="Insurance_Common\InsuranceTypeData.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_Common\InsuranceTypeData.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_Common" Source="Insurance_Common\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_Common\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_Common" Source="Insurance_Common\UsersData.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_Common\UsersData.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_Common" Source="Insurance_Common\ViewHaveDidLogData.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_Common\ViewHaveDidLogData.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_Common" Source="Insurance_Common\ViewInsuranceInfoData.cs" Description="File successfully backed up as G:\SourceSafeProjects\Insurance\Backup\Insurance_Common\ViewInsuranceInfoData.cs">
+</Event><Event ErrorLevel="0" Project="Insurance_Common" Source="Insurance_Common\Insurance_Common.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Insurance_Common" Source="Insurance_Common\Insurance_Common.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Insurance.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Insurance.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Insurance" Source="Insurance\Insurance.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Insurance_dll" Source="Insurance_dll\Insurance_dll.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Insurance_BLL" Source="Insurance_BLL\Insurance_BLL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RMX_TOOLS" Source="RMX_TOOLS\RMX_TOOLS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Insurance_Common" Source="Insurance_Common\Insurance_Common.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
